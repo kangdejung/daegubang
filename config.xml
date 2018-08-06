@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.lalahouse" version="1" android-versionCode="1" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>라라하우스</name>
+<widget id="com.dungzi.daegubang" version="1" android-versionCode="1" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>대구방</name>
     <description>	
-        라라하우스
+        대구방
     </description>
     <author email="webplug@gmail.com" href="http://www.dungzi.com/">
         Dungzi Team
@@ -10,6 +10,7 @@
 	<preference name="AutoHideSplashScreen" value="false" />
 	<preference name="SplashScreenDelay" value="10000" />
 	<preference name="android-minSdkVersion" value="15" />
+	<preference name="android-targetSdkVersion" value="26" />
 	<preference name="fullscreen" value="true" />
 
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
