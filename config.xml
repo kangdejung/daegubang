@@ -17,10 +17,9 @@
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 
 	 <gap:plugin name="cordova-plugin-camera" source="npm" />
-
-  <gap:plugin name="cordova-plugin-media-capture" source="npm" />
-
-  <gap:plugin name="cordova-plugin-device" source="npm" />
+	 <gap:plugin name="cordova-plugin-media-capture" source="npm" />
+	 <gap:plugin name="cordova-plugin-device" source="npm" />
+	 <gap:plugin name="cordova-plugin-media" source="npm" />
 
 	
 	<allow-navigation href="*" />
